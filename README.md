@@ -1,7 +1,9 @@
 useJsonFetch
 ===
+deployment: https://hooks-use-json-fetch.onrender.com
 
-Реализуйте кастомный хук `useJsonFetch`, который позволяет с помощью `fetch` осуществлять HTTP-запросы.
+
+Кастомный хук `useJsonFetch`, который позволяет с помощью `fetch` осуществлять HTTP-запросы.
 
 Использование этого хука должно выглядеть следующим образом:
 ```javascript
