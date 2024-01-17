@@ -17,5 +17,3 @@ const [data, loading, error] = useJsonFetch(url, opts);
 * GET http://localhost:7070/data — успешное получение данных;
 * GET http://localhost:7070/error — получение 500 ошибки;
 * GET http://localhost:7070/loading — индикатор загрузки.
-
-Backend возьмите из каталога `backend`.
